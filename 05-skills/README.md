@@ -1,5 +1,7 @@
 ![Chapter 05: Skills System](images/chapter-header.png)
 
+[日本語版 (Japanese Version)](./README.ja.md)
+
 > **What if Copilot could automatically apply your team's best practices without you having to explain them every time?**
 
 In this chapter, you'll learn about Agent Skills: folders of instructions that Copilot automatically loads when relevant to your task. While agents change *how* Copilot thinks, skills teach Copilot *specific ways to complete tasks*. You'll create a security audit skill that Copilot applies whenever you ask about security, build team-standard review criteria that ensure consistent code quality, and learn how skills work across Copilot CLI, VS Code, and the GitHub Copilot cloud agent.

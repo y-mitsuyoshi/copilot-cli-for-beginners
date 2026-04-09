@@ -1,5 +1,7 @@
 ![Chapter 04: Agents and Custom Instructions](images/chapter-header.png)
 
+[日本語版 (Japanese Version)](./README.ja.md)
+
 > **What if you could hire a Python code reviewer, testing expert, and security reviewer... all in one tool?**
 
 In Chapter 03, you mastered the essential workflows: code review, refactoring, debugging, test generation, and git integration. Those make you highly productive with GitHub Copilot CLI. Now, let's take it further.

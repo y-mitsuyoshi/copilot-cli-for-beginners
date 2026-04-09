@@ -1,5 +1,7 @@
 ![Chapter 02: Context and Conversations](images/chapter-header.png)
 
+[日本語版 (Japanese Version)](./README.ja.md)
+
 > **What if AI could see your entire codebase, not just one file at a time?**
 
 In this chapter, you'll unlock the real power of GitHub Copilot CLI: context. You'll learn to use the `@` syntax to reference files and directories, giving Copilot CLI deep understanding of your codebase. You'll discover how to maintain conversations across sessions, resume work days later exactly where you left off, and see how cross-file analysis catches bugs that single-file reviews miss entirely.

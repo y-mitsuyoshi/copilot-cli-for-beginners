@@ -1,5 +1,7 @@
 ![Chapter 03: Development Workflows](images/chapter-header.png)
 
+[日本語版 (Japanese Version)](./README.ja.md)
+
 > **What if the AI could find bugs you didn't even know to ask about?**
 
 In this chapter, GitHub Copilot CLI becomes your daily driver. You'll use it inside the workflows you already rely on every day: testing, refactoring, debugging, and Git.
